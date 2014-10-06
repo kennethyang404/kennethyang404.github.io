@@ -1,7 +1,7 @@
 # Site settings
 title: My Portfolio
-email: kim.rick@gmail.com
-description: "Rick Kim's Portfolio"
+email: kennethyang404@gmail.com
+description: "kennethyang404's Portfolio"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -12,16 +12,16 @@ color:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/pub/rick-kim/30/aa7/a70
+    url: 
   - title: github
-    url: http://github.com/y7kim
+    url: http://github.com/kennethyang404
   - title: envelope
-    url: mailto:kim.rick@gmail.com
+    url: mailto:kennethyang404@gmail.com
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Waterloo St.
-  - line: Kitchener, ON N2H3V5
+  - line: 
+  - line: 
 
 # Build settings
 markdown: kramdown
