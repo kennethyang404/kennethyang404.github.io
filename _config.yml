@@ -1,0 +1,28 @@
+# Site settings
+title: My Portfolio
+email: kim.rick@gmail.com
+description: "Rick Kim's Portfolio"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: fed136
+  secondary: fec503 
+  secondary-dark: 000
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/pub/rick-kim/30/aa7/a70
+  - title: github
+    url: http://github.com/y7kim
+  - title: envelope
+    url: mailto:kim.rick@gmail.com
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Waterloo St.
+  - line: Kitchener, ON N2H3V5
+
+# Build settings
+markdown: kramdown
+permalink: pretty

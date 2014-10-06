@@ -1,0 +1,10 @@
+{% include css/bootstrap.min.css %}
+{% include css/agency.css %}
+
+#skills .row {
+	padding: 25px 0;
+}
+
+.bg-png {
+	background: #fff url(../img/light_mosaic.png) repeat 0 0;
+}
