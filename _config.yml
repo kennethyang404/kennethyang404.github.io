@@ -21,7 +21,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Carnegie Mellon University
-  - line: 
+  - line: Pittsburgh, PA 15213, United States
 
 # Build settings
 markdown: kramdown
