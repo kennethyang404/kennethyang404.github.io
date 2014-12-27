@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2014-09-29
+img: tunedraw-preview.png
+alt: iOS
+project-date: September 2014
+projecturl: http://challengepost.com/software/tunedraw
+urlname: ChallengePost
+category: Swift, iOS
+description: Music has always been very hard to make. So after various rejection from various music making societies in CMU in the first few weeks, we sit down and think to ourselves how come?<p>We finally decided to blame the funky notion that music is being treated as, well, music. When people listen to music, they not only listen to the sound; they visualize the mental state of those who play the music, the feel, the mood, the shape, the color. When people want to express themselves and share their feelings, music is always an amusing choice. While traditionally only composers can do the this well, we say, hey, why not make an app that does this for us?<p>So here is what we do, you draw anything, we turn it into music and play it for you.<p>To be technical, this is a game app based on spritekit. The user swipes the screen to make a shape, and our program catches the data and turn them into magical pebbles. These pebbles, rendered by the spritekit physics engine, bounces back and forth on the screen, making joyful musical sound as they make contact with the edge or each other. The note it makes is determined by a series of randomization based on some top secret equation we managed to steal out of the College of Music. To keep things interesting for users, we added an interactive feature where they can tap the screen and modify the tone of the music being played.<p>But what is the point if you can only appreciate your visualized music by yourself? So we add the sharing feature via Facebook. During this process, we share and encapsulate the initial data of the player in a URL and sends it out on a Facebook post. Whenever your friend discover the link, they can just install the app, tap the link and start off at the same state as you did.
+
+---

@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2014-12-04
+img: pychat-preview.png
+alt: NLP
+project-date: December 2014
+projecturl: 
+urlname: 
+category: Python, Natural Language Processing
+description: 
+
+---
