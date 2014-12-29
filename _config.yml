@@ -7,7 +7,7 @@ description: "Kenneth Yang's Website"
 color:
   primary: fed136
   secondary: fec503 
-  secondary-dark: 000
+  secondary-dark: 333
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
